@@ -1,0 +1,88 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	}
+body {
+	background-color: powderblue;
+}
+
+.box { 
+	background-color:dodgerblue;
+	 padding-left: 30px;
+	 padding-right:30px;
+	 padding-bottom:135px;
+	 text-align: left;
+	 border-bottom: 8px solid;
+	 border-color: palegreen;
+	}
+
+#numbatwo {
+	background-color:palegreen;
+	border:10px solid ;
+	border-color: deepskyblue;
+	margin-left: 550px;
+	margin-right: 550px;
+	 padding-top:20px;
+	 padding-bottom:10px;
+	text-align: center;
+}
+
+
+#Aboutmeh {
+	background-color: whitesmoke;
+	border:8px solid;
+	border-color: palegreen;
+	border-top-color: deepskyblue;
+	padding-bottom: 10px;
+	margin-left: 400px;
+	margin-right: 400px;
+	text-align: center;
+		}
+
+#aboutmehthree {
+	background-color: deepskyblue;
+	text-align: center;
+	padding-bottom: 1px;
+	margin-bottom: 20px;
+	border-bottom-width: 0px;
+		}
+
+#Myworks {
+	background-color: whitesmoke;
+	border:8px solid;
+	border-color: deepskyblue;
+	border-top-color: palegreen;
+	margin-top: 20px;
+	margin-left: 330px;
+	margin-right: 330px;
+	padding-bottom: 20px;
+}
+
+#Myworksthree {
+	background-color: palegreen;
+	text-align: center;
+	padding-bottom: 1px;
+	margin-bottom: 18px;
+}
+
+#Contacts {
+	background-color: whitesmoke;
+	border: 8px solid;
+	border-color: midnightblue;
+	border-top-color: darkorange;
+	margin-top: 20px;
+	margin-left: 410px;
+	margin-right: 410px;
+	padding-bottom:10px;
+	text-align: center;
+	margin-bottom: 100px;
+}
+
+#Contactsthree {
+	background-color: darkorange;
+	border-bottom-width:0px;
+	text-align: center;
+	margin-bottom: 10px;
+	padding-bottom: 1px;
+}
